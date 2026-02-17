@@ -1,11 +1,11 @@
 # Deep Learning
+
 Deep Learning section of the Algorithms in Machine Learning class at ISAE-Supaero
 
 * [Home](https://supaerodatascience.github.io/deep-learning/)
 * [Github repository](https://github.com/SupaeroDataScience/deep-learning/)
 
 Adapted from Emmanuel Rachelson's [Machine Learning class](https://github.com/erachelson/MLclass)
-
 
 ## Syllabus
 

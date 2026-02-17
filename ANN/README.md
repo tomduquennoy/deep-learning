@@ -14,7 +14,6 @@ code, visualizing neural activations and error at each step.
 
 [Visualizing backprop](https://github.com/SupaeroDataScience/deep-learning/blob/main/ANN/Visualizing%20Backpropagation.ipynb)
 
-
 ## Additional Resources
 
 In class we present a Universal Approximation Theorem for single-layer networks
